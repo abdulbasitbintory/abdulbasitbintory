@@ -1,4 +1,6 @@
 <div align="center">
+  
+<img src="https://raw.githubusercontent.com/abdulbasitbintory/abs/main/banner/n2.PNG" alt="Banner" style="width:50%;">
 
 <p align="center">
   <a href="https://github.com/abdulbasitbintory">
@@ -6,7 +8,6 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/abdulbasitbintory/abs/main/banner/n2.PNG" alt="Banner" style="width:50%;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Next.js+%26+React+Enthusiast;GEN+AI+%26+ML+Explorer;Product+Builder+%40+insite.Life;Always+Building%2C+Always+Learning&font=Fira+Code&color=0e75b6&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000)](https://github.com/abdulbasitbintory)
 
