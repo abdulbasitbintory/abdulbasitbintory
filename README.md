@@ -1,5 +1,11 @@
 <div align="center">
 
+<p align="center">
+  <a href="https://github.com/abdulbasitbintory">
+    <img src="https://ishan-rest.vercel.app/svg/banner/dev/text" alt="Banner" style="width:100%;">
+  </a>
+</p>
+
 <img src="https://raw.githubusercontent.com/abdulbasitbintory/abs/main/banner/n2.PNG" alt="Banner" style="width:100%;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Next.js+%26+React+Enthusiast;GEN+AI+%26+ML+Explorer;Product+Builder+%40+insite.Life;Always+Building%2C+Always+Learning&font=Fira+Code&color=0e75b6&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000)](https://github.com/abdulbasitbintory)
@@ -54,6 +60,18 @@
 - 🎨 A **Canva-powered content pipeline** for Dedixor's social media presence
 - 🧪 Product feedback & usability evaluation as part of the **insite.Life** internship
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulbasitbintory/abdulbasitbintory/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulbasitbintory/abdulbasitbintory/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/abdulbasitbintory/abdulbasitbintory/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+</picture>
+
+</div>
+
 ## 📊 GitHub Stats
 
 <p>
@@ -73,5 +91,7 @@
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer" width="100%" alt="footer" />
 
 </div>
