@@ -1,79 +1,77 @@
-![logo](https://github.com/abdulbasitbintory/abs/blob/main/banner/n2.PNG)
-<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">A passionate Frontend developer from Pakistan.</h3>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdulbasitbintory&label=Profile%20views&color=0e75b6&style=flat" alt="abdulbasitbintory" />
-</p>
+<img src="https://raw.githubusercontent.com/abdulbasitbintory/abs/main/banner/n2.PNG" alt="Banner" style="width:100%;">
 
-- 🔭 I'm currently working on **React, Next.Js**
-- 🌱 I'm currently learning **AI, WEB 3.0, Metaverse**
-- 🤝 I'm looking for help with **Web Development**
-- 💬 Ask me about **React, Next.JS**
-- 📫 How to reach me: **abdulbasitnotmain@gmail.com**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Next.js+%26+React+Enthusiast;GEN+AI+%26+ML+Explorer;Product+Builder+%40+insite.Life;Always+Building%2C+Always+Learning&font=Fira+Code&color=0e75b6&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000)](https://github.com/abdulbasitbintory)
 
-<h3 align="left">Connect with me:</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img src="https://komarev.com/ghpvc/?username=abdulbasitbintory&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 
-<p align="left">
-  <a href="https://linkedin.com/in/abdul-basit-13a7b9224" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-basit-13a7b9224" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/qd0iligt8h" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="qd0iligt8h" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerearth.com/abdul basit" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="abdul basit" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Backend & General Purpose -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  
-  <!-- Web Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  
-  <!-- Mobile & Specialized -->
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
+## 👋 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="developer workspace gif" />
+
+- 🔭 Currently a **Product Builder Intern** @ **insite.Life** — evaluating and giving feedback on product experience
+- 🚀 Also building web apps, brand systems & AI workflows at **Dedixor**, a digital agency for startups
+- 💻 I work across **React, Next.js, Python, GEN AI, ML & DL**
+- 🌱 Currently learning **AI, Web 3.0 & the Metaverse**
+- 🤝 Open to collaborating on **AI & ML development and integrations**
+- 💬 Ask me about **React & Next.js**
+- 📫 Reach me at: **abdulsmainacc@gmail.com**
+
+<br clear="right" />
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-basit-13a7b9224)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/qd0iligt8h)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/abdul%20basit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsmainacc@gmail.com)
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Backend & Languages
+[![Backend](https://skillicons.dev/icons?i=nodejs,python,java,c,dart&theme=dark)](https://skillicons.dev)
+
+### 🧰 Tools & Design
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,canva&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## 🌟 Currently Building
+
+- 🏫 **CampusConnect KHI** — a multi-university event management platform, complete with BRD/SRS docs and UML modeling
+- 🎨 A **Canva-powered content pipeline** for Dedixor's social media presence
+- 🧪 Product feedback & usability evaluation as part of the **insite.Life** internship
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbasitbintory&show_icons=true&locale=en&layout=compact&theme=dark" alt="abdulbasitbintory top languages" />
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbasitbintory&show_icons=true&locale=en&layout=compact" alt="abdulbasitbintory" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasitbintory&show_icons=true&locale=en&theme=dark" alt="abdulbasitbintory stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasitbintory&show_icons=true&locale=en" alt="abdulbasitbintory" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasitbintory&theme=dark" alt="abdulbasitbintory streak stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasitbintory&" alt="abdulbasitbintory" />
-</p>
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+
+</div>
