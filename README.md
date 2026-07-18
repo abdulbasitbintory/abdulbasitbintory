@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/abdulbasitbintory/abs/main/banner/n2.PNG" alt="Banner" style="width:50%;">
+<!-- <img src="https://raw.githubusercontent.com/abdulbasitbintory/abs/main/banner/n2.PNG" alt="Banner" style="width:100%;"> -->
 
 <p align="center">
   <a href="https://github.com/abdulbasitbintory">
@@ -19,11 +19,13 @@
 
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="340" alt="developer workspace gif" />
 
+Hi, I'm **Abdul Basit Bintory**
 - 🔭 Currently a **Product Builder Intern** @ **insite.Life** — evaluating and giving feedback on product experience
-- 🚀 Also building web apps, brand systems & AI workflows at **Dedixor**, a digital agency for startups
-- 💻 I work across **React, Next.js, Python, GEN AI, ML & DL**
+- 🎓 Software Engineering **'28** — **Shaheed Zulfiqar Ali Bhutto Institute of Science and Technology**, Karachi 🇵🇰
+- 🚀 Also Building Web Apps, Brand Systems & AI Workflows at **Dedixor**, a Digital Agency for Startups
+- 💻 I work across **React, Next.js, Python, LLMs, GEN AI, Machine Learning & Deep Learning**
 - 🌱 Currently learning **AI, Web 3.0 & the Metaverse**
-- 🤝 Open to collaborating on **AI & ML development and integrations**
+- 🤝 Open to collaborating on **AI & ML Development and Integrations**
 - 💬 Ask me about **React & Next.js**
 - 📫 Reach me at: **abdulsmainacc@gmail.com**
 
@@ -44,14 +46,18 @@
 
 <div align="center">
 
-### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
+### 🎨 Frontend Development
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,vite,vercel&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Backend & Languages
-[![Backend](https://skillicons.dev/icons?i=nodejs,python,java,c,dart&theme=dark)](https://skillicons.dev)
+### ⚙️ Backend Development & Languages
+[![Backend](https://skillicons.dev/icons?i=nodejs,python,java,c,flutter,dart,postgresql&theme=dark)](https://skillicons.dev)
 
 ### 🧰 Tools & Design
-[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,canva&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,notion,obsidian&theme=dark)](https://skillicons.dev)
+
+
+### 🖥️ Operating System
+[![Tools](https://skillicons.dev/icons?i=linux,windows&theme=dark)](https://skillicons.dev)
 
 *…and Flutter for cross-platform mobile apps* 📲
 </div>
@@ -75,14 +81,6 @@
 </div>
 
 ## 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulbasitbintory&show_icons=true&locale=en&layout=compact&theme=dark" alt="abdulbasitbintory top languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulbasitbintory&show_icons=true&locale=en&theme=dark" alt="abdulbasitbintory stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulbasitbintory&theme=dark" alt="abdulbasitbintory streak stats" />
