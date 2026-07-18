@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/abdulbasitbintory/abs/main/banner/n2.PNG" alt="Banner" style="width:100%;">
+<img src="https://raw.githubusercontent.com/abdulbasitbintory/abs/main/banner/n2.PNG" alt="Banner" style="width:50%;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Next.js+%26+React+Enthusiast;GEN+AI+%26+ML+Explorer;Product+Builder+%40+insite.Life;Always+Building%2C+Always+Learning&font=Fira+Code&color=0e75b6&center=true&vCenter=true&width=600&height=60&duration=4000&pause=1000)](https://github.com/abdulbasitbintory)
 
@@ -52,6 +52,7 @@
 ### 🧰 Tools & Design
 [![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,canva&theme=dark)](https://skillicons.dev)
 
+*…and Flutter for cross-platform mobile apps* 📲
 </div>
 
 ## 🌟 Currently Building
